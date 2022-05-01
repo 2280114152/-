@@ -1251,8 +1251,8 @@
                 </div>
             </div>
             <div class="menu-item">
-                <span style="color:red;">修改速度过快可能导致被检测而异常</span>
-                <span style="color:red;">已限定修改范围，请酌情修改，毕旭硕爱打篮球</span>
+                <span style="color:red;">毕旭硕是2b</span>
+                <span style="color:red;">毕旭硕爱打篮球</span>
             </div>
             <div class="menu-item">
                 <span id="clear-info" style="cursor: pointer">点我清除页面信息</span>
